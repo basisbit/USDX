@@ -1,0 +1,22 @@
+#!/bin/bash
+clear
+APP="UltraStarDeluxe.app"										# Local .app File
+APP_VER=""UltraStarDeluxe1.3""									# Application Support Folder
+APP_DIR="/Users/$USER/Library/Application Support/$APP_VER/"	# Full Path to Application Support Folder
+
+# Deletes everything!
+if [ -e "$APP" ]
+	then
+    	rm -rf "$APP"
+fi
+
+if [ -d "$APP_DIR" ]
+	then
+		rm -r "$APP_DIR"	   
+fi
+
+sh ./autogen.sh
+sh ./configure
+make macosx-standalone-app
+open UltraStarDeluxe.app
+#echo "Enjoy!"
