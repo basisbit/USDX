@@ -12,6 +12,15 @@ Fork of the UltraStar Deluxe (USDX) karaoke game.
   * `./dev`
 - Follow On-Screen Instructions
 
+#### Chmod permissions
+In order to run the dev file you might need to change Chmod permissions.
+Example: * `chmod 700 dev`
+
+* `chmod 600 file – owner can read and write`
+* `chmod 700 file – owner can read, write and execute`
+* `chmod 666 file – all can read and write`
+* `chmod 777 file – all can read, write and execute`
+
 
 #### Compiling on MacOS (High Sierra)
 - USDX is built using _Homebrew_ and official _FreePascal build_ (using its compiler _FPC_)
