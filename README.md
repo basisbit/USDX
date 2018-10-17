@@ -13,8 +13,8 @@ Fork of the UltraStar Deluxe (USDX) karaoke game.
 - Follow On-Screen Instructions
 
 #### Chmod permissions
-In order to run the dev file you might need to change Chmod permissions.
-Example: * `chmod 700 dev`
+In order to run the dev file you might need to change Chmod permissions.<br>
+Example: `chmod 700 dev`
 
 * `chmod 600 file – owner can read and write`
 * `chmod 700 file – owner can read, write and execute`
