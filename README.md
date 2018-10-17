@@ -2,6 +2,17 @@
 
 Fork of the UltraStar Deluxe (USDX) karaoke game. 
 
+#### Compile Helper for MacOS (High Sierra)
+- Open Terminal App
+- Clone repo
+  * `git clone https://github.com/andrewisen/USDX.git`
+- Navigate to repo
+  * `cd USDX`
+- Run Helper
+  * `./dev`
+- Follow On-Screen Instructions
+
+
 #### Compiling on MacOS (High Sierra)
 - USDX is built using _Homebrew_ and official _FreePascal build_ (using its compiler _FPC_)
 - To install Homebrew, follow instructions from [brew.sh](http://brew.sh)
