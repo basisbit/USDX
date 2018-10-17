@@ -27,12 +27,14 @@ Ask someone for help instead :)
   * `chmod 700 build.sh`
   * `chmod 700 run.sh`
 
-## Compile helper
+## Compile Helper
 
 - Compile the app using the 'build' bash script (make sure to close the app)
   * `./build.sh`
 - Run the app (now with correct themes and settings)
   * `./run.sh`
+
+## Configure
 
 #### Chmod permissions
 In order to run the dev file you might need to change Chmod permissions.<br>
@@ -42,5 +44,7 @@ Example: `chmod 700 dev.sh`
 * `chmod 700 file – owner can read, write and execute`
 * `chmod 666 file – all can read and write`
 * `chmod 777 file – all can read, write and execute`
+
+#### TODO
 
 
