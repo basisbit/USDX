@@ -1,9 +1,12 @@
 # UltraStar MG Edition
-
+#### About
 Fork of the UltraStar Deluxe (USDX) karaoke game.<br>
-Note: Mostly is done trough Terminal.<br>
+#### Note
+Mostly is done trough Terminal.<br>
 If you're not comfortable with this tool, consider not compiling this app!<br><br>
 Ask someone for help instead :)
+
+## Getting Started
 
 #### Prerequisites - Mac OSX (High Sierra)
 - USDX is built using _Homebrew_ and official _FreePascal build_ (using its compiler _FPC_)
@@ -15,7 +18,7 @@ Ask someone for help instead :)
 - Needed brew libraries can be installed using (ffmpeg up to 3.3 is supported):
   * `brew install sdl2 sdl2_image automake portaudio binutils sqlite freetype lua libtiff pkg-config ffmpeg@2.8` 
 
-#### Compile - Mac OSX (High Sierra)
+#### Instructions - Mac OSX (High Sierra)
 - Clone repo
   * `git clone https://github.com/andrewisen/USDX-MG-Edition.git`
 - Navigate to repo
@@ -23,6 +26,9 @@ Ask someone for help instead :)
 - Navigate to repo
   * `chmod 700 build.sh`
   * `chmod 700 run.sh`
+
+## Compile helper
+
 - Compile the app using the 'build' bash script (make sure to close the app)
   * `./build.sh`
 - Run the app (now with correct themes and settings)
