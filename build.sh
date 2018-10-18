@@ -39,5 +39,5 @@ sh ./configure 														# Make Sure That You Have Your Build Setup Right
 																	#
 # === COMPILE ===													#
 make macosx-standalone-app											# Build the UltraStar Application
-read -p "Please EXIT the app and run './run'!`echo $'\n> '`"		#
+read -p "Please EXIT the app and run './run.sh'!`echo $'\n> '`"		#
 open UltraStarDeluxe.app 											# Run Application
