@@ -8,7 +8,7 @@ Ask someone for help instead :)
 
 ## Getting Started
 
-#### Prerequisites - Mac OSX (High Sierra)
+#### Prerequisites - Mac OSX (10.4 Mojave)
 - USDX is built using _Homebrew_ and official _FreePascal build_ (using its compiler _FPC_)
 - To install Homebrew, follow instructions from [brew.sh](http://brew.sh)
 - You can get the FPC build from [freepascal.org](http://www.freepascal.org/down/i386/macosx.var) or
@@ -18,7 +18,7 @@ Ask someone for help instead :)
 - Needed brew libraries can be installed using (ffmpeg up to 3.3 is supported):
   * `brew install sdl2 sdl2_image automake portaudio binutils sqlite freetype lua libtiff pkg-config ffmpeg@2.8` 
 
-#### Instructions - Mac OSX (High Sierra)
+#### Instructions - Mac OSX (10.4 Mojave)
 - Clone repo
   * `git clone https://github.com/andrewisen/USDX-MG-Edition.git`
 - Navigate to repo
