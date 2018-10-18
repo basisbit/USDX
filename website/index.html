@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>SingStar&trade; MG Edition - Låtar</title>
+</head>
+<body>
+	<h1>Dessa låtar finns att tillgå</h1>
+	<p id="songs"></p>
+
+	<script>
+	var xhttp = new XMLHttpRequest();
+	xhttp.onreadystatechange = function() {
+	    if (this.readyState == 4 && this.status == 200) {
+	        myFunction(this);
+	    }
+	};
+	xhttp.open("GET", "songs.xml", true);
+	xhttp.send();
+
+	function myFunction(xml) {
+	    var x,y, i, attnode, xmlDoc, txt;
+	    xmlDoc = xml.responseXML;
+	    txt = "";
+	    x = xmlDoc.getElementsByTagName('Artist');
+	    y = xmlDoc.getElementsByTagName('Title');
+	    for (i = 0; i < x.length; i++) { 
+	        txt += x[i].childNodes[0].nodeValue + " - " +y[i].childNodes[0].nodeValue + "<br>";
+	    }
+	    document.getElementById("songs").innerHTML = txt; 
+	}
+	</script>
+	</br>
+	<b>&copy; 1994<script>new Date().getFullYear()>1994&&document.write("-"+new Date().getFullYear());</script>, André "MG" Wisén.</b>
+
+</body>
+</html>

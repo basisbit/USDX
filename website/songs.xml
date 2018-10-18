@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Info>
+    <PlaylistName>songs</PlaylistName>
+  </Info>
+  <Songs>
+    <Song1>
+      <Artist>2NE1</Artist>
+      <Title>I Am The Best</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song1>
+    <Song2>
+      <Artist>3 Doors Down</Artist>
+      <Title>Here without you</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song2>
+    <Song3>
+      <Artist>5 Seconds of Summer</Artist>
+      <Title>She looks so perfect</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song3>
+    <Song4>
+      <Artist>A Day To Remember</Artist>
+      <Title>All Signs Point to Lauderdale</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song4>
+    <Song5>
+      <Artist>ABBA</Artist>
+      <Title>Dancing Queen</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song5>
+    <Song6>
+      <Artist>ABBA</Artist>
+      <Title>Does Your Mother Know?</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song6>
+    <Song7>
+      <Artist>ABBA</Artist>
+      <Title>Gimme! Gimme! Gimme! (A Man After Midnight)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song7>
+    <Song8>
+      <Artist>ABBA</Artist>
+      <Title>Mamma Mia</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song8>
+    <Song9>
+      <Artist>ABBA</Artist>
+      <Title>Super Trouper</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song9>
+    <Song10>
+      <Artist>ABBA</Artist>
+      <Title>Take A Chance On Me</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song10>
+    <Song11>
+      <Artist>ABBA</Artist>
+      <Title>Waterloo</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song11>
+    <Song12>
+      <Artist>AC/DC</Artist>
+      <Title>Highway To Hell</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song12>
+    <Song13>
+      <Artist>AC/DC</Artist>
+      <Title>T.N.T. (Live)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song13>
+    <Song14>
+      <Artist>AC/DC</Artist>
+      <Title>You shook me all night long (Live)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song14>
+    <Song15>
+      <Artist>Adele</Artist>
+      <Title>Rolling In The Deep</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song15>
+    <Song16>
+      <Artist>Aerosmith</Artist>
+      <Title>Don't want to miss a Thing</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song16>
+    <Song17>
+      <Artist>Afro-dite</Artist>
+      <Title>Never Let It Go</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song17>
+    <Song18>
+      <Artist>After Dark</Artist>
+      <Title>La Dolce Vita</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song18>
+    <Song19>
+      <Artist>Aladdin</Artist>
+      <Title>En Helt Ny Värld</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song19>
+    <Song20>
+      <Artist>Alcazar</Artist>
+      <Title>Not A Sinner, Nor A Saint</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song20>
+    <Song21>
+      <Artist>Alesso feat. Tove Lo</Artist>
+      <Title>Heroes (We Could Be)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song21>
+    <Song22>
+      <Artist>Alice Cooper</Artist>
+      <Title>Poison</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song22>
+    <Song23>
+      <Artist>Alphabeat</Artist>
+      <Title>Fascination</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song23>
+    <Song24>
+      <Artist>Alphaville</Artist>
+      <Title>Forever Young</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song24>
+    <Song25>
+      <Artist>Anastacia</Artist>
+      <Title>Left Outside Alone</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song25>
+    <Song26>
+      <Artist>Aqua</Artist>
+      <Title>Barbie Girl</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song26>
+    <Song27>
+      <Artist>Ariana Grande &amp; Zedd</Artist>
+      <Title>Break Free</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song27>
+    <Song28>
+      <Artist>Arja Saijonmaa</Artist>
+      <Title>Högt Över Havet</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song28>
+    <Song29>
+      <Artist>Arvingarna</Artist>
+      <Title>Eloise</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song29>
+    <Song30>
+      <Artist>Atomic Kitten</Artist>
+      <Title>Eternal Flame</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song30>
+    <Song31>
+      <Artist>Attack</Artist>
+      <Title>Ooa hela natten</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song31>
+    <Song32>
+      <Artist>Avenged Sevenfold</Artist>
+      <Title>Afterlife</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song32>
+    <Song33>
+      <Artist>Avicii</Artist>
+      <Title>Hey brother</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song33>
+    <Song34>
+      <Artist>Avicii</Artist>
+      <Title>Wake Me Up!</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song34>
+    <Song35>
+      <Artist>Avril Lavigne</Artist>
+      <Title>Complicated</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song35>
+    <Song36>
+      <Artist>Avril Lavigne</Artist>
+      <Title>Girlfriend</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song36>
+    <Song37>
+      <Artist>Avril Lavigne</Artist>
+      <Title>Sk8er Boi</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song37>
+    <Song38>
+      <Artist>Avril Lavigne</Artist>
+      <Title>What The Hell</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song38>
+    <Song39>
+      <Artist>Avril Lavigne</Artist>
+      <Title>When You're Gone</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song39>
+    <Song40>
+      <Artist>Aya Hirano</Artist>
+      <Title>God Knows</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song40>
+    <Song41>
+      <Artist>a-ha</Artist>
+      <Title>Take on me</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song41>
+    <Song42>
+      <Artist>BTS</Artist>
+      <Title>Blood Sweat &amp; Tears</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song42>
+    <Song43>
+      <Artist>BTS</Artist>
+      <Title>DOPE</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song43>
+    <Song44>
+      <Artist>Backstreet Boys</Artist>
+      <Title>As Long As You Love Me</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song44>
+    <Song45>
+      <Artist>Backstreet Boys</Artist>
+      <Title>I Want It That Way</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song45>
+    <Song46>
+      <Artist>Barbados</Artist>
+      <Title>Världen Utanför</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song46>
+    <Song47>
+      <Artist>Basshunter</Artist>
+      <Title>Angel In The Night</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song47>
+    <Song48>
+      <Artist>Basshunter</Artist>
+      <Title>Boten Anna</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song48>
+    <Song49>
+      <Artist>Basshunter</Artist>
+      <Title>DotA</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song49>
+    <Song50>
+      <Artist>Basshunter</Artist>
+      <Title>Now You Are Gone</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song50>
+    <Song51>
+      <Artist>Beyonce</Artist>
+      <Title>Crazy In Love</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song51>
+    <Song52>
+      <Artist>Beyoncé</Artist>
+      <Title>Single ladies (Put a ring on it)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song52>
+    <Song53>
+      <Artist>Bill Withers</Artist>
+      <Title>Ain't No Sunshine</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song53>
+    <Song54>
+      <Artist>Billy Joel</Artist>
+      <Title>Uptown Girl</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song54>
+    <Song55>
+      <Artist>Blondie</Artist>
+      <Title>Maria</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song55>
+    <Song56>
+      <Artist>Bon Jovi</Artist>
+      <Title>It's my life</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song56>
+    <Song57>
+      <Artist>Bon Jovi</Artist>
+      <Title>Livin' on a Prayer</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song57>
+    <Song58>
+      <Artist>Bon Jovi</Artist>
+      <Title>You Give Love A Bad Name</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song58>
+    <Song59>
+      <Artist>Bonnie Tyler</Artist>
+      <Title>Holding Out For A Hero</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song59>
+    <Song60>
+      <Artist>Bonnie Tyler</Artist>
+      <Title>Total Eclipse of the Heart</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song60>
+    <Song61>
+      <Artist>Boston</Artist>
+      <Title>More Than A Feeling</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song61>
+    <Song62>
+      <Artist>Brandsta City Släckers</Artist>
+      <Title>Kom Och Ta Mig</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song62>
+    <Song63>
+      <Artist>Britney Spears</Artist>
+      <Title>Baby One More Time</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song63>
+    <Song64>
+      <Artist>Bruno Mars</Artist>
+      <Title>Locked Out Of Heaven</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song64>
+    <Song65>
+      <Artist>Bryan Adams</Artist>
+      <Title>Summer of '69</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song65>
+    <Song66>
+      <Artist>Buggles</Artist>
+      <Title>Video Killed The Radio Star</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song66>
+    <Song67>
+      <Artist>Bullet For My Valentine</Artist>
+      <Title>Scream Aim Fire</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song67>
+    <Song68>
+      <Artist>Bullet For My Valentine</Artist>
+      <Title>Tears Don't Fall</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song68>
+    <Song69>
+      <Artist>Paradisio</Artist>
+      <Title>Bailando</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song69>
+    <Song70>
+      <Artist>Caramell</Artist>
+      <Title>Caramelldansen (Speedy Mix)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song70>
+    <Song71>
+      <Artist>Carly Rae Jepsen</Artist>
+      <Title>Call Me Maybe</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song71>
+    <Song72>
+      <Artist>Carola</Artist>
+      <Title>Fångad av en stormvind</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song72>
+    <Song73>
+      <Artist>Carola Häggkvist</Artist>
+      <Title>Främling</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song73>
+    <Song74>
+      <Artist>Cascada</Artist>
+      <Title>Bad Boy</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song74>
+    <Song75>
+      <Artist>Cascada</Artist>
+      <Title>Everytime We Touch</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song75>
+    <Song76>
+      <Artist>Cascada</Artist>
+      <Title>Everytime We Touch (Slow Version)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song76>
+    <Song77>
+      <Artist>Cascada</Artist>
+      <Title>Miracle</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song77>
+    <Song78>
+      <Artist>Céline Dion</Artist>
+      <Title>My Heart Will Go On</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song78>
+    <Song79>
+      <Artist>Charlotte Nilsson</Artist>
+      <Title>Take Me to Your Heaven</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song79>
+    <Song80>
+      <Artist>Charlotte Nilsson</Artist>
+      <Title>Tusen Och En Natt</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song80>
+    <Song81>
+      <Artist>Cher</Artist>
+      <Title>Believe</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song81>
+    <Song82>
+      <Artist>Cher</Artist>
+      <Title>If I Could Turn Back Time</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song82>
+    <Song83>
+      <Artist>Chester See, KevJumba &amp; Ryan Higa</Artist>
+      <Title>Nice Guys</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song83>
+    <Song84>
+      <Artist>Cinderella</Artist>
+      <Title>Mössens Arbetssång</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song84>
+    <Song85>
+      <Artist>Clean Bandit feat. Demi Lovato</Artist>
+      <Title>Solo</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song85>
+    <Song86>
+      <Artist>Culture Club</Artist>
+      <Title>Karma Chameleon</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song86>
+    <Song87>
+      <Artist>Cyndi Lauper</Artist>
+      <Title>Girls Just Wanna Have Fun</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song87>
+    <Song88>
+      <Artist>Cyndi Lauper</Artist>
+      <Title>Time After Time</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song88>
+    <Song89>
+      <Artist>Daler Mehndi</Artist>
+      <Title>Tunak Tunak Tun</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song89>
+    <Song90>
+      <Artist>Dana Winner</Artist>
+      <Title>Moonlight Shadow</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song90>
+    <Song91>
+      <Artist>David Guetta &amp; Sia</Artist>
+      <Title>Titanium</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song91>
+    <Song92>
+      <Artist>David Guetta feat. Flo Rida &amp; Nicki Minaj</Artist>
+      <Title>Where Them Girls At?</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song92>
+    <Song93>
+      <Artist>Dead or Alive</Artist>
+      <Title>You Spin Me Round (Like A Record)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song93>
+    <Song94>
+      <Artist>Demi Lovato</Artist>
+      <Title>Heart Attack</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song94>
+    <Song95>
+      <Artist>Den Lilla Sjöjungfrun</Artist>
+      <Title>Havet Är Djupt</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song95>
+    <Song96>
+      <Artist>Dexy's Midnight Runners</Artist>
+      <Title>Come On Eileen</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song96>
+    <Song97>
+      <Artist>Disturbed</Artist>
+      <Title>Down with the sickness</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song97>
+    <Song98>
+      <Artist>Disturbed</Artist>
+      <Title>The Sound Of Silence</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song98>
+    <Song99>
+      <Artist>Djungelboken</Artist>
+      <Title>Jag Vill Ju Va Som Du</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song99>
+    <Song100>
+      <Artist>Dolly Parton</Artist>
+      <Title>9 To 5</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song100>
+    <Song101>
+      <Artist>Don Omar &amp; Lucenzo</Artist>
+      <Title>Danza Kuduro</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song101>
+    <Song102>
+      <Artist>DragonForce</Artist>
+      <Title>Through the fire and flames</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song102>
+    <Song103>
+      <Artist>Drömhus</Artist>
+      <Title>Vill Ha Dig</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song103>
+    <Song104>
+      <Artist>E-Type</Artist>
+      <Title>Life</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song104>
+    <Song105>
+      <Artist>Earth, Wind &amp; Fire</Artist>
+      <Title>Let's Groove</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song105>
+    <Song106>
+      <Artist>Earth, Wind &amp; Fire</Artist>
+      <Title>September</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song106>
+    <Song107>
+      <Artist>Ed Sheeran</Artist>
+      <Title>Galway Girl</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song107>
+    <Song108>
+      <Artist>Ed Sheeran</Artist>
+      <Title>Shape of you</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song108>
+    <Song109>
+      <Artist>Elle King</Artist>
+      <Title>Ex's &amp; Oh's</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song109>
+    <Song110>
+      <Artist>Elton John &amp; Kiki Dee</Artist>
+      <Title>Don't Go Breaking My Heart</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song110>
+    <Song111>
+      <Artist>Eric Saade</Artist>
+      <Title>Popular (Sweden)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song111>
+    <Song112>
+      <Artist>Europe</Artist>
+      <Title>Final Countdown</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song112>
+    <Song113>
+      <Artist>Evanescence</Artist>
+      <Title>Bring Me to Life</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song113>
+    <Song114>
+      <Artist>Evanescence</Artist>
+      <Title>My Immortal</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song114>
+    <Song115>
+      <Artist>Fame</Artist>
+      <Title>Give Me Your Love</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song115>
+    <Song116>
+      <Artist>Family Guy</Artist>
+      <Title>Family Guy</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song116>
+    <Song117>
+      <Artist>Foreigner</Artist>
+      <Title>I Want To Know What Love Is</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song117>
+    <Song118>
+      <Artist>Galantis</Artist>
+      <Title>No Money</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song118>
+    <Song119>
+      <Artist>Galantis</Artist>
+      <Title>Runaway (U &amp; I)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song119>
+    <Song120>
+      <Artist>George Michael</Artist>
+      <Title>Careless Whisper</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song120>
+    <Song121>
+      <Artist>Girls' Generation</Artist>
+      <Title>Gee (PV)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song121>
+    <Song122>
+      <Artist>Glee</Artist>
+      <Title>Defying Gravity</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song122>
+    <Song123>
+      <Artist>Glee</Artist>
+      <Title>Friday</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song123>
+    <Song124>
+      <Artist>Gloria Gaynor</Artist>
+      <Title>I Will Survive</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song124>
+    <Song125>
+      <Artist>Grease (John Travolta &amp; Olivia Newton-John)</Artist>
+      <Title>You're the One that I Want</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song125>
+    <Song126>
+      <Artist>Green Day</Artist>
+      <Title>American Idiot</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song126>
+    <Song127>
+      <Artist>Green Day</Artist>
+      <Title>Basket Case</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song127>
+    <Song128>
+      <Artist>Green Day</Artist>
+      <Title>Boulevard of Broken Dreams</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song128>
+    <Song129>
+      <Artist>Green Day</Artist>
+      <Title>Holiday</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song129>
+    <Song130>
+      <Artist>Guns N' Roses</Artist>
+      <Title>Paradise City</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song130>
+    <Song131>
+      <Artist>Guns N' Roses</Artist>
+      <Title>Sweet Child O´Mine</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song131>
+    <Song132>
+      <Artist>Guns N' Roses</Artist>
+      <Title>Welcome To The Jungle</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song132>
+    <Song133>
+      <Artist>Haddaway</Artist>
+      <Title>What is love</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song133>
+    <Song134>
+      <Artist>Hannah Montana</Artist>
+      <Title>Nobody's Perfect</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song134>
+    <Song135>
+      <Artist>Hannah Montana</Artist>
+      <Title>The Best of Both Worlds</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song135>
+    <Song136>
+      <Artist>Hatsune Miku</Artist>
+      <Title>World is mine</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song136>
+    <Song137>
+      <Artist>Helena Paparizou</Artist>
+      <Title>My Number One</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song137>
+    <Song138>
+      <Artist>Hermes House Band</Artist>
+      <Title>Country Roads</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song138>
+    <Song139>
+      <Artist>Herreys</Artist>
+      <Title>Diggi-Loo Diggi-Ley</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song139>
+    <Song140>
+      <Artist>High School Musical</Artist>
+      <Title>Bop to the Top</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song140>
+    <Song141>
+      <Artist>High School Musical</Artist>
+      <Title>Breaking Free</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song141>
+    <Song142>
+      <Artist>High School Musical</Artist>
+      <Title>Start of Something New</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song142>
+    <Song143>
+      <Artist>High School Musical</Artist>
+      <Title>Stick To The Status Quo</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song143>
+    <Song144>
+      <Artist>High School Musical</Artist>
+      <Title>We're All In This Together</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song144>
+    <Song145>
+      <Artist>High School Musical</Artist>
+      <Title>When There Was Me And You</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song145>
+    <Song146>
+      <Artist>Idina Menzel</Artist>
+      <Title>Let it go</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song146>
+    <Song147>
+      <Artist>Irene Cara</Artist>
+      <Title>Flashdance (What a feeling)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song147>
+    <Song148>
+      <Artist>Iron Maiden</Artist>
+      <Title>Fear Of The Dark</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song148>
+    <Song149>
+      <Artist>Iron Maiden</Artist>
+      <Title>Run to the Hills</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song149>
+    <Song150>
+      <Artist>Iron Maiden</Artist>
+      <Title>The Trooper</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song150>
+    <Song151>
+      <Artist>Israel Kamakawiwo´Ole</Artist>
+      <Title>Over The Rainbow Wonderful World</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song151>
+    <Song152>
+      <Artist>Iyaz</Artist>
+      <Title>Replay</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song152>
+    <Song153>
+      <Artist>Jack Ü &amp; Justin Bieber</Artist>
+      <Title>Where Are Ü Now</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song153>
+    <Song154>
+      <Artist>James Blunt</Artist>
+      <Title>You're Beautiful</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song154>
+    <Song155>
+      <Artist>Jason Mraz</Artist>
+      <Title>I'm yours</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song155>
+    <Song156>
+      <Artist>Jessie J</Artist>
+      <Title>Domino</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song156>
+    <Song157>
+      <Artist>Jill Johnson</Artist>
+      <Title>Crazy In Love</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song157>
+    <Song158>
+      <Artist>Jonas Brothers</Artist>
+      <Title>S.O.S.</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song158>
+    <Song159>
+      <Artist>Journey</Artist>
+      <Title>Don't Stop Believing</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song159>
+    <Song160>
+      <Artist>Justin Bieber &amp; Ludacris</Artist>
+      <Title>Baby</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song160>
+    <Song161>
+      <Artist>Justin Bieber</Artist>
+      <Title>Sorry</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song161>
+    <Song162>
+      <Artist>K-ON!</Artist>
+      <Title>Cagayake girls (TV)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song162>
+    <Song163>
+      <Artist>Katrina And The Waves</Artist>
+      <Title>Walking On Sunshine</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song163>
+    <Song164>
+      <Artist>Katy Perry</Artist>
+      <Title>Hot N Cold</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song164>
+    <Song165>
+      <Artist>Katy Perry</Artist>
+      <Title>I Kissed A Girl</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song165>
+    <Song166>
+      <Artist>Ke$ha</Artist>
+      <Title>Tik Tok</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song166>
+    <Song167>
+      <Artist>Kelly Clarkson</Artist>
+      <Title>My Life Would Suck Without You</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song167>
+    <Song168>
+      <Artist>Kelly Clarkson</Artist>
+      <Title>Since U Been Gone</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song168>
+    <Song169>
+      <Artist>Kikki</Artist>
+      <Title>Vem È Dé Du Vill Ha</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song169>
+    <Song170>
+      <Artist>Kikki Danielsson</Artist>
+      <Title>Bra Vibrationer</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song170>
+    <Song171>
+      <Artist>Kikki, Bettan och Lotta</Artist>
+      <Title>Vem È Dé Du Vill Ha</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song171>
+    <Song172>
+      <Artist>Killswitch Engage</Artist>
+      <Title>My Curse</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song172>
+    <Song173>
+      <Artist>Kim Wilde</Artist>
+      <Title>Kids In America</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song173>
+    <Song174>
+      <Artist>Kings Of Leon</Artist>
+      <Title>Sex On Fire</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song174>
+    <Song175>
+      <Artist>Kool &amp; The Gang</Artist>
+      <Title>Celebration</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song175>
+    <Song176>
+      <Artist>LMFAO, Lauren Bennett &amp; Goon Rock</Artist>
+      <Title>Party Rock Anthem</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song176>
+    <Song177>
+      <Artist>Lady GaGa feat. Colby O'Donis</Artist>
+      <Title>Just Dance</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song177>
+    <Song178>
+      <Artist>Lady Gaga</Artist>
+      <Title>Poker Face</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song178>
+    <Song179>
+      <Artist>Las Ketchup</Artist>
+      <Title>Aserejé</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song179>
+    <Song180>
+      <Artist>Lasse Holm och Monica Törnell</Artist>
+      <Title>É Dé Det Här Du Kallar Kärlek</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song180>
+    <Song181>
+      <Artist>Laura Branigan</Artist>
+      <Title>Self Control</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song181>
+    <Song182>
+      <Artist>Lejonkungen</Artist>
+      <Title>En Värld Full Av Liv</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song182>
+    <Song183>
+      <Artist>Lejonkungen</Artist>
+      <Title>Snart Är Det Jag Som Är Kung</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song183>
+    <Song184>
+      <Artist>Lena Philipsson</Artist>
+      <Title>Dansa I Neon</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song184>
+    <Song185>
+      <Artist>Lena Philipsson</Artist>
+      <Title>Det gör ont</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song185>
+    <Song186>
+      <Artist>Limp Bizkit</Artist>
+      <Title>Behind blue eyes</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song186>
+    <Song187>
+      <Artist>Linda Bengtzing</Artist>
+      <Title>Jag Ljuger Så Bra</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song187>
+    <Song188>
+      <Artist>Linkin Park</Artist>
+      <Title>Numb</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song188>
+    <Song189>
+      <Artist>Lordi</Artist>
+      <Title>Hard Rock Hallelujah</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song189>
+    <Song190>
+      <Artist>Loreen</Artist>
+      <Title>Euphoria</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song190>
+    <Song191>
+      <Artist>Lotta Engberg</Artist>
+      <Title>Fyra Bugg Och en Coca Cola</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song191>
+    <Song192>
+      <Artist>Luis Fonsi feat. Daddy Yankee</Artist>
+      <Title>Despacito</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song192>
+    <Song193>
+      <Artist>Luis Fonsi y Demi Lovato</Artist>
+      <Title>Échame la culpa</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song193>
+    <Song194>
+      <Artist>Madonna</Artist>
+      <Title>Hung up</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song194>
+    <Song195>
+      <Artist>Madonna</Artist>
+      <Title>Like A Prayer</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song195>
+    <Song196>
+      <Artist>Madonna</Artist>
+      <Title>Like a Virgin</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song196>
+    <Song197>
+      <Artist>Magic!</Artist>
+      <Title>Rude</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song197>
+    <Song198>
+      <Artist>Mariah Carey</Artist>
+      <Title>All I Want For Christmas Is You</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song198>
+    <Song199>
+      <Artist>Mark Ronson feat. Bruno Mars</Artist>
+      <Title>Uptown Funk</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song199>
+    <Song200>
+      <Artist>Markoolio Och Linda Bengtzing</Artist>
+      <Title>Värsta Schlagern</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song200>
+    <Song201>
+      <Artist>Maroon 5 feat. Wiz Khalifa</Artist>
+      <Title>Payphone</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song201>
+    <Song202>
+      <Artist>Martin Stenmarck</Artist>
+      <Title>Las Vegas</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song202>
+    <Song203>
+      <Artist>Meghan Trainor</Artist>
+      <Title>All About That Bass</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song203>
+    <Song204>
+      <Artist>Michael Jackson</Artist>
+      <Title>Beat It</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song204>
+    <Song205>
+      <Artist>Michael Jackson</Artist>
+      <Title>Billie Jean</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song205>
+    <Song206>
+      <Artist>Michael Jackson</Artist>
+      <Title>They don't care about us</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song206>
+    <Song207>
+      <Artist>Michel Teló</Artist>
+      <Title>Ai Se Eu Te Pego</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song207>
+    <Song208>
+      <Artist>Mika</Artist>
+      <Title>Big Girl You Are Beautiful</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song208>
+    <Song209>
+      <Artist>Mika</Artist>
+      <Title>Grace Kelly</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song209>
+    <Song210>
+      <Artist>Miley Cyrus</Artist>
+      <Title>Wrecking Ball</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song210>
+    <Song211>
+      <Artist>Måns Zelmerlöw</Artist>
+      <Title>Heroes</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song211>
+    <Song212>
+      <Artist>N'Sync</Artist>
+      <Title>Bye bye bye</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song212>
+    <Song213>
+      <Artist>Nanne Grönvall</Artist>
+      <Title>Håll Om Mig</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song213>
+    <Song214>
+      <Artist>Nena</Artist>
+      <Title>99 Luftballons</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song214>
+    <Song215>
+      <Artist>Nena</Artist>
+      <Title>99 Red Balloons</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song215>
+    <Song216>
+      <Artist>Nickelback</Artist>
+      <Title>How You Remind Me</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song216>
+    <Song217>
+      <Artist>Nickelback</Artist>
+      <Title>Rockstar</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song217>
+    <Song218>
+      <Artist>Nicki Minaj</Artist>
+      <Title>Starships</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song218>
+    <Song219>
+      <Artist>Nicky Jam y Enrique Iglesias</Artist>
+      <Title>El perdón</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song219>
+    <Song220>
+      <Artist>Nightwish</Artist>
+      <Title>Amaranth</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song220>
+    <Song221>
+      <Artist>Nightwish</Artist>
+      <Title>Storytime</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song221>
+    <Song222>
+      <Artist>Nirvana</Artist>
+      <Title>Smells Like Teen Spirit</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song222>
+    <Song223>
+      <Artist>One Direction</Artist>
+      <Title>What Makes You Beautiful</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song223>
+    <Song224>
+      <Artist>Opus</Artist>
+      <Title>Live Is Life</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song224>
+    <Song225>
+      <Artist>OutKast</Artist>
+      <Title>Hey Ya!</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song225>
+    <Song226>
+      <Artist>Owl City &amp; Carly Rae Jepsen</Artist>
+      <Title>Good Time</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song226>
+    <Song227>
+      <Artist>Owl City</Artist>
+      <Title>Fireflies</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song227>
+    <Song228>
+      <Artist>P!nk</Artist>
+      <Title>Raise your glass</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song228>
+    <Song229>
+      <Artist>P!nk</Artist>
+      <Title>So what</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song229>
+    <Song230>
+      <Artist>PSY feat. CL of 2NE1</Artist>
+      <Title>DADDY</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song230>
+    <Song231>
+      <Artist>Paramore</Artist>
+      <Title>Misery Business</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song231>
+    <Song232>
+      <Artist>Paul Engemann</Artist>
+      <Title>Scarface (Push it to the limit)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song232>
+    <Song233>
+      <Artist>Piko Taro</Artist>
+      <Title>Pen Pineapple Apple Pen</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song233>
+    <Song234>
+      <Artist>Pink</Artist>
+      <Title>Get The Party Started</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song234>
+    <Song235>
+      <Artist>Pink</Artist>
+      <Title>Just Like A Pill</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song235>
+    <Song236>
+      <Artist>Pokémon</Artist>
+      <Title>JigglyPuff's Song</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song236>
+    <Song237>
+      <Artist>Portal</Artist>
+      <Title>Still Alive</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song237>
+    <Song238>
+      <Artist>Psy</Artist>
+      <Title>Gangnam Style</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song238>
+    <Song239>
+      <Artist>Psy</Artist>
+      <Title>Gentleman</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song239>
+    <Song240>
+      <Artist>Pussycat Dolls</Artist>
+      <Title>Don't Cha (Radio Edit)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song240>
+    <Song241>
+      <Artist>Radical Face</Artist>
+      <Title>Welcome Home</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song241>
+    <Song242>
+      <Artist>Queen</Artist>
+      <Title>Bohemian Rhapsody</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song242>
+    <Song243>
+      <Artist>Queen</Artist>
+      <Title>Don´t stop me now</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song243>
+    <Song244>
+      <Artist>Queen</Artist>
+      <Title>We are the Champions</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song244>
+    <Song245>
+      <Artist>Red Hot Chili Peppers</Artist>
+      <Title>By The Way</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song245>
+    <Song246>
+      <Artist>Red Hot Chili Peppers</Artist>
+      <Title>Dani California</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song246>
+    <Song247>
+      <Artist>Rednex</Artist>
+      <Title>Cotton Eye Joe</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song247>
+    <Song248>
+      <Artist>Rick Astley</Artist>
+      <Title>Never gonna give you up</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song248>
+    <Song249>
+      <Artist>Ricky Martin</Artist>
+      <Title>Livin' La Vida Loca</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song249>
+    <Song250>
+      <Artist>Rihanna</Artist>
+      <Title>Pon De Replay</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song250>
+    <Song251>
+      <Artist>Rihanna</Artist>
+      <Title>S&amp;M</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song251>
+    <Song252>
+      <Artist>Rihanna</Artist>
+      <Title>Umbrella</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song252>
+    <Song253>
+      <Artist>Robbie Williams</Artist>
+      <Title>Angels</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song253>
+    <Song254>
+      <Artist>Robbie Williams</Artist>
+      <Title>Let Me Entertain You</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song254>
+    <Song255>
+      <Artist>Roger Pontare</Artist>
+      <Title>När Vindarna Viskar Mitt Namn</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song255>
+    <Song256>
+      <Artist>Roxette</Artist>
+      <Title>It Must Have Been Love</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song256>
+    <Song257>
+      <Artist>Roxette</Artist>
+      <Title>Listen to your heart</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song257>
+    <Song258>
+      <Artist>Scissor Sisters</Artist>
+      <Title>I Don't Feel Like Dancin'</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song258>
+    <Song259>
+      <Artist>Scorpions</Artist>
+      <Title>Rock You Like a Hurricane</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song259>
+    <Song260>
+      <Artist>Sean Kingston</Artist>
+      <Title>Beautiful Girls</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song260>
+    <Song261>
+      <Artist>Shaggy ft. Rikrok</Artist>
+      <Title>It wasn't me</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song261>
+    <Song262>
+      <Artist>Shakira</Artist>
+      <Title>Underneath Your Clothes</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song262>
+    <Song263>
+      <Artist>Shakira</Artist>
+      <Title>Whenever wherever</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song263>
+    <Song264>
+      <Artist>Shakira ft. Freshlyground</Artist>
+      <Title>Waka Waka (This Time for Africa)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song264>
+    <Song265>
+      <Artist>Shirley Clamp</Artist>
+      <Title>Min Kärlek</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song265>
+    <Song266>
+      <Artist>Sia</Artist>
+      <Title>Chandelier</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song266>
+    <Song267>
+      <Artist>Simple Plan</Artist>
+      <Title>Summer Paradise</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song267>
+    <Song268>
+      <Artist>Skillet</Artist>
+      <Title>Awake and Alive</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song268>
+    <Song269>
+      <Artist>Skillet</Artist>
+      <Title>Hero</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song269>
+    <Song270>
+      <Artist>Skillet</Artist>
+      <Title>Monster</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song270>
+    <Song271>
+      <Artist>Skönheten Och Odjuret</Artist>
+      <Title>Skönheten Och Odjuret</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song271>
+    <Song272>
+      <Artist>Smash Mouth</Artist>
+      <Title>All Star</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song272>
+    <Song273>
+      <Artist>Sonya Aldén</Artist>
+      <Title>För Att Du Finns</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song273>
+    <Song274>
+      <Artist>South Park</Artist>
+      <Title>Poker Face</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song274>
+    <Song275>
+      <Artist>South Park</Artist>
+      <Title>Uncle Fucker</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song275>
+    <Song276>
+      <Artist>Spice Girls</Artist>
+      <Title>Wannabe</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song276>
+    <Song277>
+      <Artist>Sugababes</Artist>
+      <Title>About You Now</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song277>
+    <Song278>
+      <Artist>Sum 41</Artist>
+      <Title>Still waiting</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song278>
+    <Song279>
+      <Artist>Sunrise Ave</Artist>
+      <Title>Fairytale Gone Bad</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song279>
+    <Song280>
+      <Artist>Survivor</Artist>
+      <Title>Eye Of The Tiger</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song280>
+    <Song281>
+      <Artist>Swedish House Mafia &amp; John Martin</Artist>
+      <Title>Don't You Worry Child</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song281>
+    <Song282>
+      <Artist>Swedish House Mafia</Artist>
+      <Title>Save The World (Tonight)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song282>
+    <Song283>
+      <Artist>Taio Cruz feat. Flo Rida</Artist>
+      <Title>Hangover</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song283>
+    <Song284>
+      <Artist>Take That</Artist>
+      <Title>Back for Good</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song284>
+    <Song285>
+      <Artist>Tarzan</Artist>
+      <Title>Manniska</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song285>
+    <Song286>
+      <Artist>Taylor Swift</Artist>
+      <Title>I Knew You Were Trouble</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song286>
+    <Song287>
+      <Artist>Taylor Swift</Artist>
+      <Title>Shake It Off</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song287>
+    <Song288>
+      <Artist>Taylor Swift</Artist>
+      <Title>The Story Of Us</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song288>
+    <Song289>
+      <Artist>Taylor Swift</Artist>
+      <Title>We Are Never Ever Getting Back Together</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song289>
+    <Song290>
+      <Artist>Taylor Swift</Artist>
+      <Title>You Belong With Me</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song290>
+    <Song291>
+      <Artist>Tenacious D</Artist>
+      <Title>Tribute</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song291>
+    <Song292>
+      <Artist>The Ark</Artist>
+      <Title>The Worrying Kind</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song292>
+    <Song293>
+      <Artist>The Calling</Artist>
+      <Title>Wherever You Will Go</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song293>
+    <Song294>
+      <Artist>The Chainsmokers ft. Coldplay</Artist>
+      <Title>Something Just Like This</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song294>
+    <Song295>
+      <Artist>The Chainsmokers ft. Daya</Artist>
+      <Title>Don't let me down</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song295>
+    <Song296>
+      <Artist>The Corrs</Artist>
+      <Title>Breathless</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song296>
+    <Song297>
+      <Artist>The Crystal Gems</Artist>
+      <Title>We Are The Crystal Gems</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song297>
+    <Song298>
+      <Artist>The Fairly Odd Parents</Artist>
+      <Title>Theme Song (TV)</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song298>
+    <Song299>
+      <Artist>The Jackson 5</Artist>
+      <Title>ABC</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song299>
+    <Song300>
+      <Artist>The Jackson 5</Artist>
+      <Title>I Want You Back</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song300>
+    <Song301>
+      <Artist>The Killers</Artist>
+      <Title>Mr. Brightside</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song301>
+    <Song302>
+      <Artist>The Lonely Island ft. Akon</Artist>
+      <Title>I Just Had Sex</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song302>
+    <Song303>
+      <Artist>The Melancholy of Haruhi Suzumiya</Artist>
+      <Title>Hare Hare Yukai</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song303>
+    <Song304>
+      <Artist>The Poodles</Artist>
+      <Title>Night Of Passion</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song304>
+    <Song305>
+      <Artist>The Rasmus</Artist>
+      <Title>In the Shadows</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song305>
+    <Song306>
+      <Artist>The Rolling Stones</Artist>
+      <Title>Paint It, Black</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song306>
+    <Song307>
+      <Artist>The Sounds</Artist>
+      <Title>Living in America</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song307>
+    <Song308>
+      <Artist>The Veronicas</Artist>
+      <Title>Untouched</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song308>
+    <Song309>
+      <Artist>The Weather Girls</Artist>
+      <Title>It's Raining Men</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song309>
+    <Song310>
+      <Artist>Cyndi Lauper</Artist>
+      <Title>Time After Time</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song310>
+    <Song311>
+      <Artist>Timoteij</Artist>
+      <Title>Stormande Hav</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song311>
+    <Song312>
+      <Artist>Tina Turner</Artist>
+      <Title>The Best</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song312>
+    <Song313>
+      <Artist>Tina Turner</Artist>
+      <Title>The Best</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song313>
+    <Song314>
+      <Artist>Tokio Hotel</Artist>
+      <Title>Durch Den Monsun</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song314>
+    <Song315>
+      <Artist>Tokio Hotel</Artist>
+      <Title>Monsoon</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song315>
+    <Song316>
+      <Artist>Tokio Hotel</Artist>
+      <Title>Ready, Set, Go!</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song316>
+    <Song317>
+      <Artist>Tommy Nilsson</Artist>
+      <Title>En Dag</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song317>
+    <Song318>
+      <Artist>Toto</Artist>
+      <Title>Africa</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song318>
+    <Song319>
+      <Artist>Tove Lo</Artist>
+      <Title>Talking Body</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song319>
+    <Song320>
+      <Artist>Train</Artist>
+      <Title>Drive By</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song320>
+    <Song321>
+      <Artist>Twisted Sister</Artist>
+      <Title>We're Not Gonna Take It</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song321>
+    <Song322>
+      <Artist>USA for Africa</Artist>
+      <Title>We Are the World</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song322>
+    <Song323>
+      <Artist>Veronica Maggio</Artist>
+      <Title>Jag kommer</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song323>
+    <Song324>
+      <Artist>Village People</Artist>
+      <Title>YMCA</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song324>
+    <Song325>
+      <Artist>WALK THE MOON</Artist>
+      <Title>Shut Up And Dance</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song325>
+    <Song326>
+      <Artist>Weird Al Yankovic</Artist>
+      <Title>White &amp; Nerdy</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song326>
+    <Song327>
+      <Artist>Wham!</Artist>
+      <Title>Wake Me Up Before You Go-Go</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song327>
+    <Song328>
+      <Artist>Whitney Houston</Artist>
+      <Title>I Wanna Dance With Somebody</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song328>
+    <Song329>
+      <Artist>Ylvis</Artist>
+      <Title>The Fox</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song329>
+    <Song330>
+      <Artist>Zara Larsson</Artist>
+      <Title>Lush Life</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song330>
+    <Song331>
+      <Artist>Zedd feat. Hayley Williams</Artist>
+      <Title>Stay the Night</Title>
+      <GameMode>TR_GAMEMODE_NORMAL</GameMode>
+    </Song331>
+  </Songs>
+</root>
