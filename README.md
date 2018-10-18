@@ -7,6 +7,8 @@ If you're not comfortable with this tool, consider not compiling this app!<br><b
 Ask someone for help instead :)
 
 ## Getting Started
+This guide is for Mac OSX.<br>
+Check the orignal repo for instructions on how to compile on Windows & Linux.
 
 #### Prerequisites - Mac OSX (10.4 Mojave)
 - USDX is built using _Homebrew_ and official _FreePascal build_ (using its compiler _FPC_)
