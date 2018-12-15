@@ -49,4 +49,8 @@ Example: `chmod 700 dev.sh`
 
 #### TODO
 
-
+## Known Issues and Workarounds
+- FPC version might not be correct.
+  * `brew upgrade fpc`
+- No levels on microphones (work outside USDX).
+  * Goto Security settings. Disable microphone for USDX and then re-enable it.
