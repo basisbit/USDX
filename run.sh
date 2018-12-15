@@ -17,3 +17,4 @@ cp "$SOURCE" "$DEST"												# Replace config.ini
 																	#
 # === RUN APP ===													#
 open UltraStarDeluxe.app 											# Run Application
+printf "APP running...\n"
