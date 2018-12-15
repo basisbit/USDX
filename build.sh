@@ -31,10 +31,10 @@ if [ -e "$APP" ]
 	then															
 		echo "Found APP! Removing APP..."
 		# Remove Previously Compiled App 							
-    	make clean-macosx-app
+    	#make clean-macosx-app
 
     	# Experimental: Remove Previously Compiled App
-    	#rm -rf "$APP"												 
+    	rm -rf "$APP"												 
     else
     	echo "No APP Found!"										
 fi 																	
@@ -59,6 +59,9 @@ sh ./configure
 # === COMPILE ===			
 # Build the UltraStar Application										
 make macosx-standalone-app											
-read -p "Please EXIT the app and run './run.sh'!`echo $'\n> '`"
 # Run Application
-open UltraStarDeluxe.app 											
+open UltraStarDeluxe.app
+
+osascript -e 'quit app "UltraStarDeluxe.app"'
+sh ./run.sh
+#read -p "Please EXIT the app and run './run.sh'!`echo $'\n> '`"
