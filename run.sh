@@ -1,10 +1,6 @@
 #!/bin/bash	
 # Copies config.ini file
 
-# === START MESSAGE ===												
-#printf "=== MG USDX - Compiler Helper 1.2 - Part 2 ==="
-#echo
-
 # === VARIABLES === 
 # Local .app-file
 APP="UltraStarDeluxe.app"
@@ -26,5 +22,7 @@ DEST="/Users/$USER/Library/Application Support/$APP_VER/"
 cp "$SOURCE" "$DEST"
 											
 # === RUN APP ===
-#open UltraStarDeluxe.app
-printf "APP running...\n"
+#open UltraStarDeluxe.app # NOT WORKING - NOT SURE WHY...
+
+printf "Setting have been copied.\nPlase read the 'READ ME' for running on OSX Mojave." 
+echo

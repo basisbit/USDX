@@ -1,9 +1,8 @@
 #!/bin/bash	
-# Compiles App for Mac OSX
-
+# Compiles APP for Mac OSX Mojave
 
 # === START MESSAGE ===												
-printf "=== MG USDX - Compiler Helper 1.2 - Part 1 ==="				
+printf "=== MG USDX - Helper 1.3 ==="				
 printf "\n\nThis Script Will Help You Compile USDX MG Edition.\n"	
 printf "Don't forget to run './run' afterwards!\n"	#				
 read -p "Please Press Enter to Continue... `echo $'\n> '`"			
@@ -13,8 +12,7 @@ read -p "Please Press Enter to Continue... `echo $'\n> '`"
 APP="UltraStarDeluxe.app"
 
 # Application Support Folder
-APP_VER="UltraStarDeluxe1.3"										
-
+APP_VER="UltraStarDeluxe1.3"
 
 # === PATH VARIABLES === 	
 # Full Path to Application Support Folder
@@ -31,9 +29,9 @@ if [ -e "$APP" ]
 	then															
 		echo "Found APP! Removing APP..."
 		# Remove Previously Compiled App 							
-    	#make clean-macosx-app
+    	# EXPERIMENTAL: make clean-macosx-app
 
-    	# Experimental: Remove Previously Compiled App
+    	# Remove Previously Compiled App
     	rm -rf "$APP"												 
     else
     	echo "No APP Found!"										
@@ -50,18 +48,25 @@ if [ -d "$APP_DIR" ]
 fi 																	
 																	
 # === ENVIRONMENT SETUP ===	
-# Generate Configure File and More										
+# Generate Configure file										
 sh ./autogen.sh
 
-# Make Sure That You Have Your Build Setup Right								
-sh ./configure 														
+# Runs Configure file.
+# Makes sure that you have the right build setup
+sh ./configure
 																	
-# === COMPILE ===			
-# Build the UltraStar Application										
-make macosx-standalone-app											
-# Run Application
+# === COMPILE ===
+# Build (compile) the UltraStar Application										
+make macosx-standalone-app
+
+# Run APP to create the Application Support Folder							
+# I.e /Users/$USER/Library/Application Support/$APP_VER/
 open UltraStarDeluxe.app
 
+# Gracefully quits app
 osascript -e 'quit app "UltraStarDeluxe.app"'
+
+# Copies config.ini to Application Support folder
 sh ./run.sh
-#read -p "Please EXIT the app and run './run.sh'!`echo $'\n> '`"
+
+# EXPERIMENTAL: #read -p "Please EXIT the app and run './run.sh'!`echo $'\n> '`"
