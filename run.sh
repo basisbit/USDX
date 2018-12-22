@@ -15,14 +15,14 @@ APP_DIR="/Users/$USER/Library/Application Support/$APP_VER/"
 SOURCE="$PWD/game/config.ini"
 
 # Destination For Pasting config.ini 							
-DEST="/Users/$USER/Library/Application Support/$APP_VER/"			
+DEST="/Users/$USER/Library/Application Support/$APP_VER/"
 
 # === COPY CONFIG SETTINGS ===
 # Replace config.ini
 cp "$SOURCE" "$DEST"
-											
+
 # === RUN APP ===
-#open UltraStarDeluxe.app # NOT WORKING - NOT SURE WHY...
+#open UltraStarDeluxe.app # NOT WORKING, NOT SURE WHY...
 
 printf "Setting have been copied.\nPlase read the 'READ ME' for running on OSX Mojave." 
 echo
